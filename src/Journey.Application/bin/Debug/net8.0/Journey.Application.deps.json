@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Journey.Application/1.0.0": {
+        "dependencies": {
+          "Journey.Communication": "1.0.0",
+          "Journey.Exception": "1.0.0",
+          "Journey.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Journey.Application.dll": {}
+        }
+      },
+      "Journey.Communication/1.0.0": {
+        "runtime": {
+          "Journey.Communication.dll": {}
+        }
+      },
+      "Journey.Exception/1.0.0": {
+        "runtime": {
+          "Journey.Exception.dll": {}
+        }
+      },
+      "Journey.Infrastructure/1.0.0": {
+        "runtime": {
+          "Journey.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Journey.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Journey.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Journey.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Journey.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
