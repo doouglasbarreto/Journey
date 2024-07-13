@@ -24,6 +24,10 @@ namespace Journey.Api.Controllers
             {
                 return BadRequest(ex.Message);
             }
+            catch
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Erro desconhecido");
+            }
         }
     }
 }
