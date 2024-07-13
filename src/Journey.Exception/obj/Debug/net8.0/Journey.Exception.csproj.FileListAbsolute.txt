@@ -10,3 +10,5 @@ C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Exception\obj\Debu
 C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
 C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
 C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ExceptionsBase.ResourceErrorMessage.resources
+C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache

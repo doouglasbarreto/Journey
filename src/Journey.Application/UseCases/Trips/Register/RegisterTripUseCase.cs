@@ -1,4 +1,5 @@
 ﻿using Journey.Communication.Requests;
+using Journey.Exception.ExceptionsBase;
 
 namespace Journey.Application.UseCases.Trips.Register
 {
@@ -13,17 +14,17 @@ namespace Journey.Application.UseCases.Trips.Register
         {
             if (string.IsNullOrEmpty(request.Name))
             {
-                throw new ArgumentException("Nome não pode ser vazio");
+                throw new JourneyException(ResourceErrorMessage.NAME_EMPTY + "\nCondition: string.IsNullOrEmpty(request.Name)");
             }
 
-            if (request.StartDate < DateTime.UtcNow)
+            if (request.StartDate.Date < DateTime.UtcNow.Date)
             {
-                throw new ArgumentException("Data de início não pode ser menor que a data atual");
+                throw new JourneyException(ResourceErrorMessage.DATE_TRIP_MUST_BE_LATER_THAN_TODAY + "\nCondition: request.StartDate.Date < DateTime.UtcNow.Date");
             }
 
-            if (request.EndDate < request.StartDate)
+            if (request.EndDate.Date < request.StartDate.Date)
             {
-                throw new ArgumentException("Data de término não pode ser menor que a data de início");
+                throw new JourneyException(ResourceErrorMessage.END_DATE_TRIP_MUST_BE_LATER_START_DATE + "\nCondition: request.EndDate.Date < request.StartDate.Date");
             }
         }
 
