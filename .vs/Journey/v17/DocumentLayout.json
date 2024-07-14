@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
               "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T14:43:11.256Z",
               "EditorCaption": ""
@@ -103,8 +103,7 @@
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T14:32:55.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T14:32:55.967Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T14:28:44.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T14:28:44.732Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Register\\RegisterActivityForTripUseCase.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAgwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:51:31.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:51:31.391Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAUwGoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:45:30.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:45:30.384Z"
             }
           ]
         }
