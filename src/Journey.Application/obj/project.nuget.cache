@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2Pzrpy5JjlM=",
+  "dgSpecHash": "zHUagUMsnAQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Douglas Barreto\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\Douglas Barreto\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.7\\microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "C:\\Users\\Douglas Barreto\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\Douglas Barreto\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

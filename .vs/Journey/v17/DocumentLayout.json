@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\journey.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\journey.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,8 +66,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Journey.Application",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\Journey.Application.csproj",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+              "RelativeToolTip": "src\\Journey.Application\\Journey.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-14T13:05:56.153Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -114,31 +131,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegisterTripValidation.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidation.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidation.cs",
               "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidation.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T13:04:36.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ResourceErrorMessage.resx",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Exception\\ExceptionsBase\\ResourceErrorMessage.resx",
               "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\ResourceErrorMessage.resx",
               "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Exception\\ExceptionsBase\\ResourceErrorMessage.resx",
               "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\ResourceErrorMessage.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-07-14T00:31:43.139Z"
+              "WhenOpened": "2024-07-14T00:31:43.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetAllTripsUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
@@ -146,11 +164,12 @@
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T00:02:37.518Z"
+              "WhenOpened": "2024-07-14T00:02:37.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "GetTripByIdUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\GetById\\GetTripByIdUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\GetById\\GetTripByIdUseCase.cs",
@@ -163,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TripsController.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
@@ -176,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ErrorOnValidationException.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
               "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
@@ -184,11 +203,12 @@
               "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T01:19:01.202Z"
+              "WhenOpened": "2024-07-14T01:19:01.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Program.cs",
@@ -201,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterTripUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
@@ -214,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
@@ -227,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DeleteTripByIdUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
@@ -240,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JourneyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
               "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
@@ -253,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
               "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
@@ -261,11 +281,12 @@
               "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T01:07:09.301Z"
+              "WhenOpened": "2024-07-14T01:07:09.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "JourneyException.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
               "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
@@ -273,7 +294,8 @@
               "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\JourneyException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T01:25:38.263Z"
+              "WhenOpened": "2024-07-14T01:25:38.263Z",
+              "EditorCaption": ""
             }
           ]
         }
