@@ -1,10 +1,9 @@
-﻿using Journey.Communication.Requests;
-using Microsoft.AspNetCore.Mvc;
-using Journey.Application.UseCases.Trips.Register;
-using Journey.Exception.ExceptionsBase;
-using Journey.Application.UseCases.Trips.GetAll;
+﻿using Journey.Application.UseCases.Trips.GetAll;
 using Journey.Application.UseCases.Trips.GetById;
+using Journey.Application.UseCases.Trips.Register;
+using Journey.Communication.Requests;
 using Journey.Communication.Responses;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Journey.Api.Controllers
 {
@@ -17,26 +16,16 @@ namespace Journey.Api.Controllers
         [ProducesResponseType(typeof(string), StatusCodes.Status400BadRequest)]
         public IActionResult Register([FromBody] RequestRegisterTripJson request)
         {
-            try
-            {
-                var useCase = new RegisterTripUseCase();
+            var useCase = new RegisterTripUseCase();
 
-                var response = useCase.Execute(request);
+            var response = useCase.Execute(request);
 
-                return Created(string.Empty, response);
-            }
-            catch (JourneyException ex)
-            {
-                return BadRequest(ex.Message);
-            }
-            catch
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Erro desconhecido");
-            }
+            return Created(string.Empty, response);
         }
 
         [HttpGet]
         [ProducesResponseType(typeof(ResponseTripsJson), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(string), StatusCodes.Status404NotFound)]
         public IActionResult GetAll()
         {
             var useCase = new GetAllTripsUseCase();

@@ -38,17 +38,17 @@ namespace Journey.Application.UseCases.Trips.Register
         {
             if (string.IsNullOrEmpty(request.Name))
             {
-                throw new JourneyException(ResourceErrorMessage.NAME_EMPTY + "\nCondition: string.IsNullOrEmpty(request.Name)");
+                throw new ErrorOnValidationException(ResourceErrorMessage.NAME_EMPTY + "\nCondition: string.IsNullOrEmpty(request.Name)");
             }
 
             if (request.StartDate.Date < DateTime.UtcNow.Date)
             {
-                throw new JourneyException(ResourceErrorMessage.DATE_TRIP_MUST_BE_LATER_THAN_TODAY + "\nCondition: request.StartDate.Date < DateTime.UtcNow.Date");
+                throw new ErrorOnValidationException(ResourceErrorMessage.DATE_TRIP_MUST_BE_LATER_THAN_TODAY + "\nCondition: request.StartDate.Date < DateTime.UtcNow.Date");
             }
 
             if (request.EndDate.Date < request.StartDate.Date)
             {
-                throw new JourneyException(ResourceErrorMessage.END_DATE_TRIP_MUST_BE_LATER_START_DATE + "\nCondition: request.EndDate.Date < request.StartDate.Date");
+                throw new ErrorOnValidationException(ResourceErrorMessage.END_DATE_TRIP_MUST_BE_LATER_START_DATE + "\nCondition: request.EndDate.Date < request.StartDate.Date");
             }
         }
 
