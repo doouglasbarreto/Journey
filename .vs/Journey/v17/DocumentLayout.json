@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\usecases\\trips\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.infrastructure\\journey.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journey.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Journey.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
-              "RelativeToolTip": "src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-13T22:54:45.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TripsController.cs",
-              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
-              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T22:46:01.419Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -93,6 +79,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllTripsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T00:02:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterTripUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T23:48:32.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JourneyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T23:45:05.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Journey.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T22:54:45.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:46:01.419Z",
+              "EditorCaption": ""
             }
           ]
         }

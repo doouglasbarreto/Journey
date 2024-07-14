@@ -10,3 +10,4 @@ C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Infrastructure\obj
 C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
 C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Users\Douglas Barreto\Documents\GitHub\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
