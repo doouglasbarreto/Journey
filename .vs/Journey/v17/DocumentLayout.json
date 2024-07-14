@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\usecases\\activities\\delete\\deleteactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\activities\\delete\\deleteactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\usecases\\activities\\delete\\deleteactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\activities\\delete\\deleteactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\douglas barreto\\documents\\github\\journey\\src\\journey.application\\usecases\\activities\\register\\registeractivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DeleteActivityForTripUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
               "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T14:43:11.256Z",
               "EditorCaption": ""
@@ -131,15 +131,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TripsController.cs",
               "DocumentMoniker": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
               "ToolTip": "C:\\Users\\Douglas Barreto\\Documents\\GitHub\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGoAAAA6AAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwGUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T13:45:30.384Z"
+              "WhenOpened": "2024-07-14T13:45:30.384Z",
+              "EditorCaption": ""
             }
           ]
         }
