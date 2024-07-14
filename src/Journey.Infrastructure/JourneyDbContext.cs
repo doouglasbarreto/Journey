@@ -17,5 +17,12 @@ namespace Journey.Infrastructure
             optionsBuilder.UseSqlite("Data Source=JourneyDatabase.db");
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Activity>().ToTable("Activities");
+        }
+
     }
 }
